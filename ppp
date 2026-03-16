@@ -1,0 +1,9 @@
+<html><!--root element-->
+    <head><!--heading of the tab-->
+        <title>hello</title><!--title of the webpage-->
+        </head><!--head is closed-->
+        <body><!--body is the area whwere we can write about the webgage and is shown in webpage-->
+            <h1>I am student of codlingo</h1><!--this is the heading of paragraph-->
+            <p>this website is very well for learning computer</p><!--this is the paragraph-->
+        </body><!--body closed-->
+</html><!--root element is closed-->
